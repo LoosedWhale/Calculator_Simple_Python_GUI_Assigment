@@ -142,10 +142,3 @@ buttonDivide.grid(row=6, column=2)
 #This fella right here makes the code work, we like this one. <3
 root.mainloop()
 
-
-
-#Note to Sofia
-#Koden är inte 100% min då jag följde en youtube tutarial som jag kommer länka till.
-#Men ändrade såklart om i koden och annpassade den för detta arbete/skrev den själv men kollade på hur jag bäst skulle göra visa functioner.
-#https://youtu.be/YXPyB4XeYLA?t=2460 länken till video jag följde.
-#Ps hoppas att du förstår :)
